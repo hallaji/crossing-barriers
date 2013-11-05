@@ -1,6 +1,5 @@
-crossing-barriers
+Crossing Barriers
 =================
-
 Crossing the Barriers by Airplane (OpenGL)
 
-A simple opengl game.
+<p align="center"><img src="https://github.com/hallaji/crossing-barriers/blob/master/Screenshot.jpg"></p>
