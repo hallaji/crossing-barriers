@@ -8,5 +8,6 @@ Crossing the Barriers by Airplane (OpenGL)
 
 ## License
 
-> The MIT License (MIT)
-> Copyright (c) 2013 Vahid Hallaji (vahid@hallaji.com)
+> The MIT License (MIT) <br>
+> (C) 2014 Vahid Hallaji, <vahid@hallaji.com> <br> 
+> http://hallaji.com
